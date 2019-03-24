@@ -11,8 +11,8 @@ Web application that displays Ron Swanson's quotes and incorporating a rating sy
 Tech Stack:
 
 Front End - React.js <br>
-Back End - Python Flask
-	Code can be viewed in /backend 
+Back End - Python Flask <br>
+	Code can be viewed in /backend <br>
 Database - AWS DynamoDB (NoSQL)
 
 Deployed to Heroku - please view at https://kevin-oforce-webapp.herokuapp.com/
