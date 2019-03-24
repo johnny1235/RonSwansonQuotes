@@ -10,7 +10,7 @@ Web application that displays Ron Swanson's quotes and incorporating a rating sy
 
 Tech Stack:
 
-Front End - React.js
+Front End - React.js <br>
 Back End - Python Flask
 	Code can be viewed in /backend 
 Database - AWS DynamoDB (NoSQL)
