@@ -7,6 +7,7 @@ Contact me at kevin.charles.van@gmail.com
 Web application that displays Ron Swanson's quotes and incorporating a rating system to rate each one.
 
 Deployed to Heroku - please view at https://kevin-oforce-webapp.herokuapp.com/
+
 ---------------------------------------
 
 Tech Stack:
